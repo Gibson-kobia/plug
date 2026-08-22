@@ -1,0 +1,8 @@
+{
+  "name": "Kenya Electronics Marketplace",
+  "description": "Kenya's trusted marketplace for new and used smartphones, laptops, TVs, audio, and electronics with verified seller WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,13 @@
+-- ============================================================================
+-- seed.sql — DEVELOPMENT seed data only (optional).
+--
+-- IMPORTANT (per TASK-008 / AI_START_HERE catalogue rules):
+--   * NO fabricated products, brands, prices, inventory, or images.
+--   * Real catalogue data is admin-supplied via CATALOGUE_MASTER.md (TODO until
+--     provided). Reference seeds that ARE allowed live inside migrations
+--     (roles, Nairobi delivery zones, Sheng/Swahili search synonyms).
+--   * Add dev-only fixtures here guarded by your own conventions.
+--
+-- This file intentionally contains no rows. It exists so `supabase db reset`
+-- (config.toml → [db.seed].sql_paths) has a valid target.
+-- ============================================================================

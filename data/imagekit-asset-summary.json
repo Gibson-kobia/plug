@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-08-13T07:35:35.232Z",
+  "source": "ImageKit Media Library API v2 (read-only)",
+  "imagekitUrlEndpoint": "https://ik.imagekit.io/0iaahkrcv",
+  "projectFoldersExpected": 18,
+  "projectFoldersFound": [
+    "airbuds",
+    "airbuds2",
+    "airbuds3",
+    "airbuds4",
+    "airbuds5",
+    "gadgets",
+    "Oppo",
+    "Oppo2",
+    "Oppo3",
+    "Oppo4",
+    "Oppo5",
+    "Oppo6",
+    "Bts",
+    "itel",
+    "tvs",
+    "Sound Bars",
+    "laptops1",
+    "ecommerce"
+  ],
+  "projectFoldersNotFound": [],
+  "otherFoldersDetected": [
+    "Bookshop ",
+    "New Folder",
+    "images (13)",
+    "images (14)",
+    "images (15)",
+    "images (2)",
+    "images (3)",
+    "phace1.1",
+    "phase 1",
+    "zoe"
+  ],
+  "totalProjectFiles": 6430,
+  "totalProjectAssets": 6430,
+  "assetsPerFolder": {
+    "airbuds": 320,
+    "airbuds2": 167,
+    "airbuds3": 167,
+    "airbuds4": 167,
+    "airbuds5": 167,
+    "Bts": 274,
+    "ecommerce": 1754,
+    "gadgets": 275,
+    "itel": 418,
+    "laptops1": 412,
+    "Oppo": 59,
+    "Oppo2": 209,
+    "Oppo3": 198,
+    "Oppo4": 80,
+    "Oppo5": 208,
+    "Oppo6": 208,
+    "Sound Bars": 607,
+    "tvs": 740
+  },
+  "assetsByAssetType": {
+    "PRODUCT_IMAGE": 3994,
+    "BRAND_LOGO": 798,
+    "GLOBAL_ICON": 1478,
+    "BRAND_ASSET": 141,
+    "OTHER": 2,
+    "UNKNOWN": 17
+  },
+  "counts": {
+    "PRODUCT_IMAGE": 3994,
+    "BRAND_LOGO": 798,
+    "BRAND_ASSET": 141,
+    "GLOBAL_ICON": 1478,
+    "UI_ASSET": 0,
+    "BANNER": 0,
+    "MARKETING_ASSET": 0,
+    "OTHER": 2,
+    "UNKNOWN": 17
+  },
+  "brandAssetTotal": 939,
+  "cdnUrlCount": 6430,
+  "paginationStatus": {
+    "pages": 38,
+    "foldersPaged": 0,
+    "anyIncomplete": false,
+    "errors": []
+  },
+  "duplicateCandidates": {
+    "groups": 974,
+    "repeatedFileIds": 0
+  },
+  "apiErrors": []
+}

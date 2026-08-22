@@ -1,0 +1,16 @@
+{
+  "name": "Kenya Electronics Marketplace",
+  "short_name": "KE Electronics",
+  "description": "Kenya's Premier Electronics Marketplace for New and Verified Pre-Owned Devices",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B132B",
+  "theme_color": "#EA6A0C",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

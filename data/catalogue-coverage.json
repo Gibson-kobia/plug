@@ -1,0 +1,1667 @@
+{
+  "generatedAt": "2026-08-13T08:23:02.124Z",
+  "summary": {
+    "totalImageKitAssets": 6430,
+    "mergedProductCandidates": 4118,
+    "nonProductAssets": 2312,
+    "uncertainItems": 2673,
+    "productGroups": 1219,
+    "duplicateGroupsLarge": 318,
+    "categoriesWithAssets": 6,
+    "categoriesWithoutAssets": 7,
+    "brandsDetectedInAssets": 25,
+    "brandsMatchedToCatalogue": 22,
+    "brandsInAssetsMissingFromCatalogue": 3,
+    "brandsInCatalogueMissingFromAssets": 162
+  },
+  "categories": {
+    "C01": {
+      "categoryId": "C01",
+      "categoryName": "Smartphones",
+      "categorySlug": "smartphones",
+      "assetCount": 1661,
+      "productCount": 390,
+      "brandsDetected": [
+        "Apple",
+        "Tecno",
+        "POCO",
+        "Samsung",
+        "Xiaomi",
+        "itel",
+        "OPPO"
+      ],
+      "subcategories": {
+        "S01-01": {
+          "subId": "S01-01",
+          "assetCount": 770,
+          "productCount": 201,
+          "brandsDetected": [
+            "itel",
+            "OPPO"
+          ]
+        },
+        "S01-02": {
+          "subId": "S01-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-03": {
+          "subId": "S01-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-04": {
+          "subId": "S01-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-05": {
+          "subId": "S01-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-06": {
+          "subId": "S01-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-07": {
+          "subId": "S01-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-08": {
+          "subId": "S01-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-09": {
+          "subId": "S01-09",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-10": {
+          "subId": "S01-10",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-11": {
+          "subId": "S01-11",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-12": {
+          "subId": "S01-12",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S01-13": {
+          "subId": "S01-13",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 9,
+      "missingSubcategories": [
+        "S01-02",
+        "S01-03",
+        "S01-04",
+        "S01-05",
+        "S01-06",
+        "S01-07",
+        "S01-08",
+        "S01-09",
+        "S01-10",
+        "S01-11",
+        "S01-12",
+        "S01-13"
+      ]
+    },
+    "C02": {
+      "categoryId": "C02",
+      "categoryName": "Tablets",
+      "categorySlug": "tablets",
+      "assetCount": 12,
+      "productCount": 1,
+      "brandsDetected": [],
+      "subcategories": {
+        "S02-01": {
+          "subId": "S02-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-02": {
+          "subId": "S02-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-03": {
+          "subId": "S02-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-04": {
+          "subId": "S02-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-05": {
+          "subId": "S02-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-06": {
+          "subId": "S02-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S02-07": {
+          "subId": "S02-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 12,
+      "missingSubcategories": [
+        "S02-01",
+        "S02-02",
+        "S02-03",
+        "S02-04",
+        "S02-05",
+        "S02-06",
+        "S02-07"
+      ]
+    },
+    "C03": {
+      "categoryId": "C03",
+      "categoryName": "Laptops",
+      "categorySlug": "laptops",
+      "assetCount": 394,
+      "productCount": 394,
+      "brandsDetected": [],
+      "subcategories": {
+        "S03-01": {
+          "subId": "S03-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-02": {
+          "subId": "S03-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-03": {
+          "subId": "S03-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-04": {
+          "subId": "S03-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-05": {
+          "subId": "S03-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-06": {
+          "subId": "S03-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-07": {
+          "subId": "S03-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-08": {
+          "subId": "S03-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-09": {
+          "subId": "S03-09",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S03-10": {
+          "subId": "S03-10",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 394,
+      "missingSubcategories": [
+        "S03-01",
+        "S03-02",
+        "S03-03",
+        "S03-04",
+        "S03-05",
+        "S03-06",
+        "S03-07",
+        "S03-08",
+        "S03-09",
+        "S03-10"
+      ]
+    },
+    "C04": {
+      "categoryId": "C04",
+      "categoryName": "Desktop Computers",
+      "categorySlug": "desktops",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S04-01": {
+          "subId": "S04-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S04-02": {
+          "subId": "S04-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S04-03": {
+          "subId": "S04-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S04-04": {
+          "subId": "S04-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S04-05": {
+          "subId": "S04-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S04-06": {
+          "subId": "S04-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S04-01",
+        "S04-02",
+        "S04-03",
+        "S04-04",
+        "S04-05",
+        "S04-06"
+      ]
+    },
+    "C05": {
+      "categoryId": "C05",
+      "categoryName": "Monitors",
+      "categorySlug": "monitors",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S05-01": {
+          "subId": "S05-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S05-02": {
+          "subId": "S05-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S05-03": {
+          "subId": "S05-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S05-04": {
+          "subId": "S05-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S05-05": {
+          "subId": "S05-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S05-06": {
+          "subId": "S05-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S05-01",
+        "S05-02",
+        "S05-03",
+        "S05-04",
+        "S05-05",
+        "S05-06"
+      ]
+    },
+    "C06": {
+      "categoryId": "C06",
+      "categoryName": "TVs",
+      "categorySlug": "tvs",
+      "assetCount": 525,
+      "productCount": 140,
+      "brandsDetected": [
+        "Hisense",
+        "Infinix",
+        "itel",
+        "LG",
+        "OnePlus",
+        "Samsung",
+        "Sony",
+        "Xiaomi"
+      ],
+      "subcategories": {
+        "S06-01": {
+          "subId": "S06-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-02": {
+          "subId": "S06-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-03": {
+          "subId": "S06-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-04": {
+          "subId": "S06-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-05": {
+          "subId": "S06-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-06": {
+          "subId": "S06-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-07": {
+          "subId": "S06-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-08": {
+          "subId": "S06-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-09": {
+          "subId": "S06-09",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-10": {
+          "subId": "S06-10",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S06-11": {
+          "subId": "S06-11",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 93,
+      "missingSubcategories": [
+        "S06-01",
+        "S06-02",
+        "S06-03",
+        "S06-04",
+        "S06-05",
+        "S06-06",
+        "S06-07",
+        "S06-08",
+        "S06-09",
+        "S06-10",
+        "S06-11"
+      ]
+    },
+    "C07": {
+      "categoryId": "C07",
+      "categoryName": "Smart Watches",
+      "categorySlug": "smartwatches",
+      "assetCount": 2,
+      "productCount": 1,
+      "brandsDetected": [],
+      "subcategories": {
+        "S07-01": {
+          "subId": "S07-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S07-02": {
+          "subId": "S07-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S07-03": {
+          "subId": "S07-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S07-04": {
+          "subId": "S07-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S07-05": {
+          "subId": "S07-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 2,
+      "missingSubcategories": [
+        "S07-01",
+        "S07-02",
+        "S07-03",
+        "S07-04",
+        "S07-05"
+      ]
+    },
+    "C08": {
+      "categoryId": "C08",
+      "categoryName": "Audio",
+      "categorySlug": "audio",
+      "assetCount": 847,
+      "productCount": 157,
+      "brandsDetected": [
+        "Apple",
+        "Anker Soundcore",
+        "Samsung",
+        "Huawei",
+        "JBL",
+        "Nothing",
+        "OnePlus",
+        "Oraimo",
+        "Sony",
+        "Beats",
+        "Bose",
+        "Google",
+        "Infinix",
+        "OPPO",
+        "Realme",
+        "Skullcandy",
+        "Microsoft",
+        "Nokia",
+        "Xiaomi",
+        "Harman Kardon"
+      ],
+      "subcategories": {
+        "S08-01": {
+          "subId": "S08-01",
+          "assetCount": 655,
+          "productCount": 122,
+          "brandsDetected": [
+            "Apple",
+            "Anker Soundcore",
+            "Samsung",
+            "Huawei",
+            "JBL",
+            "Nothing",
+            "OnePlus",
+            "Oraimo",
+            "Sony",
+            "Beats",
+            "Bose",
+            "Google",
+            "Infinix",
+            "OPPO",
+            "Realme",
+            "Skullcandy",
+            "Microsoft",
+            "Nokia",
+            "Xiaomi"
+          ]
+        },
+        "S08-02": {
+          "subId": "S08-02",
+          "assetCount": 190,
+          "productCount": 34,
+          "brandsDetected": [
+            "Anker Soundcore",
+            "Bose",
+            "Harman Kardon",
+            "JBL",
+            "Oraimo",
+            "Skullcandy",
+            "Sony"
+          ]
+        },
+        "S08-03": {
+          "subId": "S08-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S08-04": {
+          "subId": "S08-04",
+          "assetCount": 2,
+          "productCount": 1,
+          "brandsDetected": []
+        },
+        "S08-05": {
+          "subId": "S08-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S08-06": {
+          "subId": "S08-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S08-07": {
+          "subId": "S08-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S08-08": {
+          "subId": "S08-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 113,
+      "missingSubcategories": [
+        "S08-03",
+        "S08-05",
+        "S08-06",
+        "S08-07",
+        "S08-08"
+      ]
+    },
+    "C09": {
+      "categoryId": "C09",
+      "categoryName": "Gaming",
+      "categorySlug": "gaming",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S09-01": {
+          "subId": "S09-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-02": {
+          "subId": "S09-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-03": {
+          "subId": "S09-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-04": {
+          "subId": "S09-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-05": {
+          "subId": "S09-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-06": {
+          "subId": "S09-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-07": {
+          "subId": "S09-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-08": {
+          "subId": "S09-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S09-09": {
+          "subId": "S09-09",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S09-01",
+        "S09-02",
+        "S09-03",
+        "S09-04",
+        "S09-05",
+        "S09-06",
+        "S09-07",
+        "S09-08",
+        "S09-09"
+      ]
+    },
+    "C10": {
+      "categoryId": "C10",
+      "categoryName": "Cameras",
+      "categorySlug": "cameras",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S10-01": {
+          "subId": "S10-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S10-02": {
+          "subId": "S10-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S10-03": {
+          "subId": "S10-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S10-04": {
+          "subId": "S10-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S10-05": {
+          "subId": "S10-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S10-06": {
+          "subId": "S10-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S10-01",
+        "S10-02",
+        "S10-03",
+        "S10-04",
+        "S10-05",
+        "S10-06"
+      ]
+    },
+    "C11": {
+      "categoryId": "C11",
+      "categoryName": "Networking",
+      "categorySlug": "networking",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S11-01": {
+          "subId": "S11-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-02": {
+          "subId": "S11-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-03": {
+          "subId": "S11-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-04": {
+          "subId": "S11-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-05": {
+          "subId": "S11-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-06": {
+          "subId": "S11-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S11-07": {
+          "subId": "S11-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S11-01",
+        "S11-02",
+        "S11-03",
+        "S11-04",
+        "S11-05",
+        "S11-06",
+        "S11-07"
+      ]
+    },
+    "C12": {
+      "categoryId": "C12",
+      "categoryName": "Storage",
+      "categorySlug": "storage",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S12-01": {
+          "subId": "S12-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-02": {
+          "subId": "S12-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-03": {
+          "subId": "S12-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-04": {
+          "subId": "S12-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-05": {
+          "subId": "S12-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-06": {
+          "subId": "S12-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S12-07": {
+          "subId": "S12-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S12-01",
+        "S12-02",
+        "S12-03",
+        "S12-04",
+        "S12-05",
+        "S12-06",
+        "S12-07"
+      ]
+    },
+    "C13": {
+      "categoryId": "C13",
+      "categoryName": "Accessories",
+      "categorySlug": "accessories",
+      "assetCount": 0,
+      "productCount": 0,
+      "brandsDetected": [],
+      "subcategories": {
+        "S13-01": {
+          "subId": "S13-01",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-02": {
+          "subId": "S13-02",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-03": {
+          "subId": "S13-03",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-04": {
+          "subId": "S13-04",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-05": {
+          "subId": "S13-05",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-06": {
+          "subId": "S13-06",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-07": {
+          "subId": "S13-07",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-08": {
+          "subId": "S13-08",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-09": {
+          "subId": "S13-09",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-10": {
+          "subId": "S13-10",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-11": {
+          "subId": "S13-11",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-12": {
+          "subId": "S13-12",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-13": {
+          "subId": "S13-13",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-14": {
+          "subId": "S13-14",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-15": {
+          "subId": "S13-15",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-16": {
+          "subId": "S13-16",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-17": {
+          "subId": "S13-17",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-18": {
+          "subId": "S13-18",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-19": {
+          "subId": "S13-19",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-20": {
+          "subId": "S13-20",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-21": {
+          "subId": "S13-21",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-22": {
+          "subId": "S13-22",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-23": {
+          "subId": "S13-23",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-24": {
+          "subId": "S13-24",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-25": {
+          "subId": "S13-25",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-26": {
+          "subId": "S13-26",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-27": {
+          "subId": "S13-27",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-28": {
+          "subId": "S13-28",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-29": {
+          "subId": "S13-29",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-30": {
+          "subId": "S13-30",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-31": {
+          "subId": "S13-31",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-32": {
+          "subId": "S13-32",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-33": {
+          "subId": "S13-33",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-34": {
+          "subId": "S13-34",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-35": {
+          "subId": "S13-35",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-36": {
+          "subId": "S13-36",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-37": {
+          "subId": "S13-37",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-38": {
+          "subId": "S13-38",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-39": {
+          "subId": "S13-39",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-40": {
+          "subId": "S13-40",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-41": {
+          "subId": "S13-41",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-42": {
+          "subId": "S13-42",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-43": {
+          "subId": "S13-43",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-44": {
+          "subId": "S13-44",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-45": {
+          "subId": "S13-45",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-46": {
+          "subId": "S13-46",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        },
+        "S13-47": {
+          "subId": "S13-47",
+          "assetCount": 0,
+          "productCount": 0,
+          "brandsDetected": []
+        }
+      },
+      "uncertainCount": 0,
+      "missingSubcategories": [
+        "S13-01",
+        "S13-02",
+        "S13-03",
+        "S13-04",
+        "S13-05",
+        "S13-06",
+        "S13-07",
+        "S13-08",
+        "S13-09",
+        "S13-10",
+        "S13-11",
+        "S13-12",
+        "S13-13",
+        "S13-14",
+        "S13-15",
+        "S13-16",
+        "S13-17",
+        "S13-18",
+        "S13-19",
+        "S13-20",
+        "S13-21",
+        "S13-22",
+        "S13-23",
+        "S13-24",
+        "S13-25",
+        "S13-26",
+        "S13-27",
+        "S13-28",
+        "S13-29",
+        "S13-30",
+        "S13-31",
+        "S13-32",
+        "S13-33",
+        "S13-34",
+        "S13-35",
+        "S13-36",
+        "S13-37",
+        "S13-38",
+        "S13-39",
+        "S13-40",
+        "S13-41",
+        "S13-42",
+        "S13-43",
+        "S13-44",
+        "S13-45",
+        "S13-46",
+        "S13-47"
+      ]
+    }
+  },
+  "analysis": {
+    "categoriesRepresented": [
+      {
+        "id": "C01",
+        "name": "Smartphones",
+        "assetCount": 1661,
+        "productCount": 390
+      },
+      {
+        "id": "C02",
+        "name": "Tablets",
+        "assetCount": 12,
+        "productCount": 1
+      },
+      {
+        "id": "C03",
+        "name": "Laptops",
+        "assetCount": 394,
+        "productCount": 394
+      },
+      {
+        "id": "C06",
+        "name": "TVs",
+        "assetCount": 525,
+        "productCount": 140
+      },
+      {
+        "id": "C07",
+        "name": "Smart Watches",
+        "assetCount": 2,
+        "productCount": 1
+      },
+      {
+        "id": "C08",
+        "name": "Audio",
+        "assetCount": 847,
+        "productCount": 157
+      }
+    ],
+    "categoriesWithNoAssets": [
+      {
+        "id": "C04",
+        "name": "Desktop Computers"
+      },
+      {
+        "id": "C05",
+        "name": "Monitors"
+      },
+      {
+        "id": "C09",
+        "name": "Gaming"
+      },
+      {
+        "id": "C10",
+        "name": "Cameras"
+      },
+      {
+        "id": "C11",
+        "name": "Networking"
+      },
+      {
+        "id": "C12",
+        "name": "Storage"
+      },
+      {
+        "id": "C13",
+        "name": "Accessories"
+      }
+    ],
+    "brandsRepresented": [
+      "Anker Soundcore",
+      "Apple",
+      "Beats",
+      "Bose",
+      "Google",
+      "Harman Kardon",
+      "Hisense",
+      "Huawei",
+      "Infinix",
+      "JBL",
+      "LG",
+      "Microsoft",
+      "Nokia",
+      "Nothing",
+      "OPPO",
+      "OnePlus",
+      "Oraimo",
+      "POCO",
+      "Realme",
+      "Samsung",
+      "Skullcandy",
+      "Sony",
+      "Tecno",
+      "Xiaomi",
+      "itel"
+    ],
+    "brandsInCatalogueWithNoAssets": [
+      "1MORE",
+      "3M",
+      "ADATA",
+      "AOC",
+      "APC",
+      "ASUS",
+      "ASUS ROG",
+      "Acer",
+      "Acer Predator",
+      "Alienware",
+      "Alldocube",
+      "Amazfit",
+      "Amazon",
+      "AndaSeat",
+      "Anker",
+      "Arlo",
+      "Aruba",
+      "Asus",
+      "Asustor",
+      "Audio-Technica",
+      "AverMedia",
+      "Baseus",
+      "Beelink",
+      "Belkin",
+      "BenQ",
+      "Blackview",
+      "Blink",
+      "Bloody",
+      "Brother",
+      "CMF",
+      "Cable Matters",
+      "Canon",
+      "Catalyst",
+      "Chuwi",
+      "Cisco",
+      "Corsair",
+      "Cougar",
+      "Crucial",
+      "CyberPowerPC",
+      "D-Link",
+      "DJI",
+      "DXRacer",
+      "Dahua",
+      "Dell",
+      "Doogee",
+      "Dynabook",
+      "Earfun",
+      "Eaton",
+      "Edifier",
+      "Elgato",
+      "Epson",
+      "Everbrite",
+      "Ezviz",
+      "Faiber",
+      "Fantech",
+      "FiiO",
+      "Fitbit",
+      "Framework",
+      "Fujifilm",
+      "Fujitsu",
+      "G.Skill",
+      "Garmin",
+      "GeekFun",
+      "Gigabyte",
+      "Glorious",
+      "GoPro",
+      "Google Pixel",
+      "Griffin",
+      "HP",
+      "HP Omen",
+      "Haier",
+      "Havit",
+      "Haylou",
+      "Hikvision",
+      "Honeywell",
+      "Honor",
+      "HyperX",
+      "Insta360",
+      "Intel NUC",
+      "Juniper",
+      "Kieslect",
+      "Kinesis",
+      "Kingston",
+      "Lenovo",
+      "Lenovo Legion",
+      "Lexar",
+      "Linksys",
+      "Logitech",
+      "MSI",
+      "Marshall",
+      "Meizu",
+      "Mercusys",
+      "MikroTik",
+      "Minisforum",
+      "Motorola",
+      "Netgear",
+      "Nikon",
+      "Nintendo",
+      "OWC",
+      "Oppo",
+      "OtterBox",
+      "Oukitel",
+      "PNY",
+      "Panasonic",
+      "Patriot",
+      "Philips",
+      "Premier",
+      "Promate",
+      "QNAP",
+      "Razer",
+      "Redmi",
+      "Redragon",
+      "Reolink",
+      "Ring",
+      "Ringke",
+      "SanDisk",
+      "Sandisk",
+      "Sato",
+      "Schneider",
+      "Seagate",
+      "Secretlab",
+      "Sennheiser",
+      "Sharp",
+      "Shure",
+      "Sigma",
+      "Silicon Power",
+      "Skyworth",
+      "Soundcore",
+      "Spigen",
+      "StarTech",
+      "SteelSeries",
+      "Syinix",
+      "Synology",
+      "T-Dagger",
+      "TCL",
+      "TP-Link",
+      "Tamron",
+      "TeamGroup",
+      "Tech21",
+      "Teclast",
+      "Tenda",
+      "TerraMaster",
+      "Toshiba",
+      "Totolink",
+      "Transcend",
+      "Tribit",
+      "Tronsmart",
+      "UGREEN",
+      "Ubiquiti",
+      "Ulefone",
+      "UniFi",
+      "Vention",
+      "Verbatim",
+      "ViewSonic",
+      "Vision Plus",
+      "Vitron",
+      "Vivo",
+      "WD",
+      "Xerox",
+      "ZTE",
+      "Zebra",
+      "iBUYPOWER"
+    ],
+    "brandsInAssetsNotInCatalogue": [
+      "Anker Soundcore",
+      "Google",
+      "OPPO"
+    ],
+    "uncategorizedAssets": 677,
+    "lowConfidenceAssets": 764
+  },
+  "imageKitFolders": {
+    "airbuds": 320,
+    "airbuds2": 167,
+    "airbuds3": 167,
+    "airbuds4": 167,
+    "airbuds5": 167,
+    "Bts": 274,
+    "ecommerce": 1754,
+    "gadgets": 275,
+    "itel": 418,
+    "laptops1": 412,
+    "Oppo": 59,
+    "Oppo2": 209,
+    "Oppo3": 198,
+    "Oppo4": 80,
+    "Oppo5": 208,
+    "Oppo6": 208,
+    "Sound Bars": 607,
+    "tvs": 740
+  },
+  "folderToCategoryMapping": {
+    "airbuds": {
+      "catId": "C08",
+      "subId": "S08-01",
+      "catName": "Audio",
+      "subName": "Earbuds",
+      "confidence": "HIGH"
+    },
+    "airbuds2": {
+      "catId": "C08",
+      "subId": "S08-01",
+      "catName": "Audio",
+      "subName": "Earbuds",
+      "confidence": "HIGH"
+    },
+    "airbuds3": {
+      "catId": "C08",
+      "subId": "S08-01",
+      "catName": "Audio",
+      "subName": "Earbuds",
+      "confidence": "HIGH"
+    },
+    "airbuds4": {
+      "catId": "C08",
+      "subId": "S08-01",
+      "catName": "Audio",
+      "subName": "Earbuds",
+      "confidence": "HIGH"
+    },
+    "airbuds5": {
+      "catId": "C08",
+      "subId": "S08-01",
+      "catName": "Audio",
+      "subName": "Earbuds",
+      "confidence": "HIGH"
+    },
+    "Bts": {
+      "catId": "C08",
+      "subId": "S08-02",
+      "catName": "Audio",
+      "subName": "Headphones",
+      "confidence": "MEDIUM",
+      "note": "Could be Bluetooth speakers/headphones mixed"
+    },
+    "gadgets": {
+      "catId": null,
+      "subId": null,
+      "catName": null,
+      "subName": null,
+      "confidence": "LOW",
+      "note": "Generic \"gadgets\" folder - requires review"
+    },
+    "itel": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH",
+      "note": "itel is listed in smartphone brands"
+    },
+    "laptops1": {
+      "catId": "C03",
+      "subId": null,
+      "catName": "Laptops",
+      "subName": null,
+      "confidence": "HIGH"
+    },
+    "Oppo": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Oppo2": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Oppo3": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Oppo4": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Oppo5": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Oppo6": {
+      "catId": "C01",
+      "subId": "S01-01",
+      "catName": "Smartphones",
+      "subName": "Android Phones",
+      "confidence": "HIGH"
+    },
+    "Sound Bars": {
+      "catId": "C08",
+      "subId": "S08-04",
+      "catName": "Audio",
+      "subName": "Soundbars",
+      "confidence": "HIGH"
+    },
+    "tvs": {
+      "catId": "C06",
+      "subId": null,
+      "catName": "TVs",
+      "subName": null,
+      "confidence": "HIGH"
+    },
+    "ecommerce": {
+      "catId": null,
+      "subId": null,
+      "catName": null,
+      "subName": null,
+      "confidence": "LOW",
+      "note": "Generic ecommerce folder - mixed assets, requires review"
+    }
+  }
+}

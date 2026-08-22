@@ -1,0 +1,26 @@
+.next/
+node_modules/
+out/
+build/
+public/
+*.tsbuildinfo
+
+# Control-layer & documentation files — do NOT auto-format (they encode structure/IDs)
+AI_START_HERE.md
+AI_HANDOFF.md
+PROJECT_STATE.md
+KNOWN_ISSUES.md
+DECISION_LOG.md
+DEVELOPMENT_LOG.md
+CURRENT_TASK.md
+CATALOGUE_MASTER.md
+DESIGN_SYSTEM.md
+DATABASE_SCHEMA.md
+IMPLEMENTATION_READINESS.md
+FEATURE_ACCEPTANCE_MATRIX.md
+AUTOMATED_TEST_PLAN.md
+MANUAL_TEST_PLAN.md
+SECURITY_ACCEPTANCE.md
+DATABASE_ACCEPTANCE.md
+GO_LIVE_GATES.md
+.trae/
