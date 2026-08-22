@@ -6,8 +6,13 @@ import { Toaster } from '@/components/ui/toast';
 import { SiteHeader } from '@/components/layout/SiteHeader';
 import { SiteFooter } from '@/components/layout/SiteFooter';
 
+const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
+const siteUrl = rawSiteUrl && rawSiteUrl !== ''
+  ? rawSiteUrl
+  : (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://electronics.co.ke');
+
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000'),
+  metadataBase: new URL(siteUrl),
   title: {
     default: 'Kenya Electronics Marketplace — Smartphones, Laptops, TVs, Audio',
     template: '%s | Kenya Electronics Marketplace',
@@ -26,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_KE',
-    url: process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000',
+    url: siteUrl,
     siteName: 'Kenya Electronics Marketplace',
     title: 'Kenya Electronics Marketplace',
     description: "Kenya's trusted marketplace for new and used electronics with WhatsApp-first ordering.",
